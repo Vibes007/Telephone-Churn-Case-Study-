@@ -1,52 +1,53 @@
-# Telephone Churn Case Study
-> Outline a brief description of your project.
+# Telecom Churn Case Study
+In the telecom industry, customers are able to choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecom industries experiences an average of 15% to 25% annual churn rate. Given the fact it costs 5-10 times more to acquire a new customer than to retain a existing customer. So customer retention become more important than customer acquisition.
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* Business Objectives
+* Structure of case study
+* Insights
+* Conclusions
+* Technologies used
+* References
+* contact
 
-<!-- You can include any other section that is pertinent to your problem -->
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+## Business Objectives
+* For many operators, retaining high profitable customers is the number one business goal.To reduce customer churn, the operators need to predict which customers are high risk of churn.
+* The goal is to build a machine learning model that can able to predict the churning customers using the given dataset.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+## Structure of case study
+1 Loading Input Data
+2 Null Values Replacement and Feature Engineering
+3 EDA
+4 Standardization
+5 PCA
+6 Logistic regression
+7 Random forest
+8 Creating submission file
+8 Conclusion
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+## Conclusion
+ - We have used Random Forest as final model to create sample solution because its accuracy is 92.60 percent.
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python version
+- numpy library version
+- pandas library version 
+- matplotlib library version 
+- seaborn library version 
+- scikit-learn library version 
+- statsmodels version 
+- imblearn library version 
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+## References
+1. https://jovian.ai/abhi120490/telecom-churn-case-study
+2. https://github.com/ankushhanda/data-science/blob/master/Churn_Prediction/Churn_prediction.ipynb
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by [https://github.com/Vibes007] - feel free to contact me!
+1. Vibhash Karn -  karnvibhash@gmail.com

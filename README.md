@@ -1,4 +1,4 @@
-# Project Name
+# Telephone Churn Case Study
 > Outline a brief description of your project.
 
 

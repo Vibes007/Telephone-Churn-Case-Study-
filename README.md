@@ -17,15 +17,24 @@ In the telecom industry, customers are able to choose from multiple service prov
 * The goal is to build a machine learning model that can able to predict the churning customers using the given dataset.
 
 ## Structure of case study
-1 Loading Input Data
-2 Null Values Replacement and Feature Engineering
-3 EDA
-4 Standardization
-5 PCA
-6 Logistic regression
-7 Random forest
-8 Creating submission file
-8 Conclusion
+1. Loading Input Data
+
+2. Null Values Replacement and Feature Engineering
+
+3. EDA
+
+4. Standardization
+
+5. PCA
+
+6. Logistic regression
+
+7. Random forest
+
+8. Creating submission file
+
+9. Conclusion
+
 
 
 ## Conclusion

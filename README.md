@@ -18,21 +18,13 @@ In the telecom industry, customers are able to choose from multiple service prov
 
 ## Structure of case study
 1. Loading Input Data
-
 2. Null Values Replacement and Feature Engineering
-
 3. EDA
-
 4. Standardization
-
 5. PCA
-
 6. Logistic regression
-
 7. Random forest
-
 8. Creating submission file
-
 9. Conclusion
 
 
@@ -53,8 +45,10 @@ In the telecom industry, customers are able to choose from multiple service prov
 
 
 ## References
-1. https://jovian.ai/abhi120490/telecom-churn-case-study
-2. https://github.com/ankushhanda/data-science/blob/master/Churn_Prediction/Churn_prediction.ipynb
+1.  This project was inspired by upgrad lessons
+2. Code used here are inspired from stacksoverflow 
+3. https://jovian.ai/abhi120490/telecom-churn-case-study
+
 
 
 ## Contact
